@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Geir :wave:"
-  sub = "I'm a Linux geek and developer in training"
+  sub = "I'm a Linux geek and web-developer in training"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -52,7 +52,8 @@ pygmentsCodeFences=true
   github = "https://github.com/geokkjer"
   linkedin = "https://www.linkedin.com/in/"
   youtube = "https://www.youtube.com/"
-  
+  mastodon = ""
+  lemmy = "https://lemmy.ml/u/geokkjer"
 
 [params.contact]
   email = "geir@geokkjer.eu"
