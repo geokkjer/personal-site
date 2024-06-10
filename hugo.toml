@@ -60,6 +60,12 @@ pygmentsCodeFences=true
 
 
 [menu]
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Home"
+  url = "/"
+  weight = -130
 
 [[menu.main]]
   identifier = "about"
@@ -74,6 +80,13 @@ pygmentsCodeFences=true
   title = "Portfolio"
   url = "/portfolio/"
   weight = -110
+
+[[menu.main]]
+  identifier = "curriculum vitae"
+  name = "Curriculum vitae"
+  title = "Curriculum vitae"
+  url = "/cv/"
+  weight = -105
 
 [[menu.main]]
   identifier = "blog"
