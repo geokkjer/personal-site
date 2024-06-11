@@ -29,31 +29,26 @@ Looking for the next cool project and learning web development
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2020`
+__Noroff AS, Network & Security__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Higher Vocational Degree 
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2023`
+__Netsecurity AS__, Kristiansand
 
-- Warden
-- Minted coins
+- 1/2. line support 
+- Windows consultant
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2000-2018`
+__Lund Kiosk AS__, Kristiansand
 
+- Proprietor
+- Daily operations
 
 
 <!-- ### Footer
