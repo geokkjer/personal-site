@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoshop on Geir Okkenhaug Jerstad</title>
+    <link>http://localhost:1313/designs/photoshop/</link>
+    <description>Recent content in Photoshop on Geir Okkenhaug Jerstad</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Geir O. Jerstad</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/designs/photoshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample project</title>
+      <link>http://localhost:1313/portfolio/this-site/this-site/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/this-site/this-site/</guid>
+      <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.&#xA;Hugo Go Hugo&#xA;Theme </description>
+    </item>
+  </channel>
+</rss>

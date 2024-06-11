@@ -4,10 +4,13 @@ description: Welcome to my personal site
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+Hi,
 
-I'm Geir, a Web Developer and Linux geek.
+I'm Geir,
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
+I like Linux and Operating Systems, and I've been using Linux since 2006.  
 
-[Get to know me better](/personal-site/about "Get to know me better")
+This fall I'll start to learn web development, mostly front-end.
+
+
+[Get to know me better](https://geokkjer.github.io/personal-site/about/ "Get to know me better")

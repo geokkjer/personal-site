@@ -52,7 +52,7 @@ pygmentsCodeFences=true
   github = "https://github.com/geokkjer"
   linkedin = "https://www.linkedin.com/in/"
   youtube = "https://www.youtube.com/"
-  mastodon = ""
+  mastodon = "https://hachyderm.io/@geokkjer"
   lemmy = "https://lemmy.ml/u/geokkjer"
 
 [params.contact]
