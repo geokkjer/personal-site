@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geokkjer.eu/designs/</loc>
+    <loc>https://geokkjer.github.io/personal-site/designs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/designs/emacs/</loc>
+    <loc>https://geokkjer.github.io/personal-site/designs/emacs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/</loc>
+    <loc>https://geokkjer.github.io/personal-site/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/techs/html/</loc>
+    <loc>https://geokkjer.github.io/personal-site/techs/html/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/techs/linux/</loc>
+    <loc>https://geokkjer.github.io/personal-site/techs/linux/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/techs/markdown/</loc>
+    <loc>https://geokkjer.github.io/personal-site/techs/markdown/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/portfolio/</loc>
+    <loc>https://geokkjer.github.io/personal-site/portfolio/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/techs/</loc>
+    <loc>https://geokkjer.github.io/personal-site/techs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/portfolio/this-site/website/</loc>
+    <loc>https://geokkjer.github.io/personal-site/portfolio/this-site/website/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/post/config-file/</loc>
+    <loc>https://geokkjer.github.io/personal-site/post/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/post/pages/</loc>
+    <loc>https://geokkjer.github.io/personal-site/post/pages/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/post/</loc>
+    <loc>https://geokkjer.github.io/personal-site/post/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/about/</loc>
+    <loc>https://geokkjer.github.io/personal-site/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://geokkjer.eu/cv/</loc>
+    <loc>https://geokkjer.github.io/personal-site/cv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

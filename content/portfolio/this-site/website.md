@@ -6,7 +6,7 @@ jobDate: 2024
 work: [code]
 techs: [html, markdown, linux]
 designs: [Emacs]
-thumbnail: personal-site/portfolio/this-site/sample.jpg
+thumbnail: this-site/sample.jpg
 projectUrl: https://github.com/geokkjer/personal-site
 ---
 

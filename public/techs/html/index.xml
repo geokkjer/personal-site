@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Html on Geir Okkenhaug Jerstad</title>
-    <link>https://geokkjer.eu/techs/html/</link>
+    <link>https://geokkjer.github.io/personal-site/techs/html/</link>
     <description>Recent content in Html on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
     <lastBuildDate>Thu, 02 May 2024 19:47:09 +0200</lastBuildDate>
-    <atom:link href="https://geokkjer.eu/techs/html/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://geokkjer.github.io/personal-site/techs/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web site project</title>
-      <link>https://geokkjer.eu/portfolio/this-site/website/</link>
+      <link>https://geokkjer.github.io/personal-site/portfolio/this-site/website/</link>
       <pubDate>Thu, 02 May 2024 19:47:09 +0200</pubDate>
-      <guid>https://geokkjer.eu/portfolio/this-site/website/</guid>
+      <guid>https://geokkjer.github.io/personal-site/portfolio/this-site/website/</guid>
       <description>A quick overview of of the static page generator HUGO.&#xA;Hugo Go Hugo&#xA;Hugo is the most well known of the static web-page generators. It has a large community, and development.&#xA;Theme personal-web Starter theme for me, looking to make (it) my own. Reasonable clean, might look to strip some of it away. Maybe move to pico css.</description>
     </item>
   </channel>
