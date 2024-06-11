@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/designs/</loc>
+    <loc>https://geokkjer.eu/designs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/designs/emacs/</loc>
+    <loc>https://geokkjer.eu/designs/emacs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://geokkjer.eu/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/techs/html/</loc>
+    <loc>https://geokkjer.eu/techs/html/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/techs/linux/</loc>
+    <loc>https://geokkjer.eu/techs/linux/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/techs/markdown/</loc>
+    <loc>https://geokkjer.eu/techs/markdown/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://geokkjer.eu/portfolio/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/techs/</loc>
+    <loc>https://geokkjer.eu/techs/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/portfolio/this-site/this-site/</loc>
+    <loc>https://geokkjer.eu/portfolio/this-site/this-site/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/config-file/</loc>
+    <loc>https://geokkjer.eu/post/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/pages/</loc>
+    <loc>https://geokkjer.eu/post/pages/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://geokkjer.eu/post/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://geokkjer.eu/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://geokkjer.eu/cv/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
