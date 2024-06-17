@@ -2,72 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/personal-site/designs/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/personal-site/designs/emacs/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>http://localhost:1313/personal-site/blog/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal-site/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/personal-site/techs/html/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/personal-site/techs/linux/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/personal-site/techs/markdown/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/personal-site/portfolio/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/personal-site/techs/</loc>
-    <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/personal-site/portfolio/this-site/website/</loc>
     <lastmod>2024-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/categories/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/css/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/blog/markdown_syntax/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/html/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/markdown/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/categories/syntax/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/themes/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/categories/themes/</loc>
+    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal-site/post/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/personal-site/post/pages/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/personal-site/post/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/categories/diam-aliqua/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/categories/fringilla/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/laoreet/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/blog/post_3/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/mollis-urna/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/personal-site/tags/notes/</loc>
+    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/personal-site/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/personal-site/cv/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
