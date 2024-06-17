@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aafu theme on Geir Okkenhaug Jerstad</title>
+    <title>Random musings on Geir Okkenhaug Jerstad</title>
     <link>http://localhost:1313/personal-site/blog/</link>
-    <description>Recent content in aafu theme on Geir Okkenhaug Jerstad</description>
+    <description>Recent content in Random musings on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/personal-site/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/personal-site/blog/aboutme/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-site/blog/aboutme/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Born in Oslo, Norway in 1973. Lived in Kristiansand, Norway since 1983.&lt;/p&gt;&#xA;&lt;p&gt;Got my first computer in 1985, a Commodore64.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;%22c64.jpg%22&#34;&gt;img&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Template page</title>
+      <link>http://localhost:1313/personal-site/blog/test/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/personal-site/blog/test/</guid>
+      <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;</description>
+    </item>
     <item>
       <title>Demo Page</title>
       <link>http://localhost:1313/personal-site/blog/markdown_syntax/</link>

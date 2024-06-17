@@ -1,0 +1,20 @@
++++
+author = "Geir O. jerstad"
+title = ""
+date = "2024-11-19"
+description = "Template"
+tags = [
+    "markdown",
+    "css",
+    "html",
+    "themes",
+]
+categories = [
+    "themes",
+    "syntax",
+]
++++
+
+# Template page
+
+<!--more>

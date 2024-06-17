@@ -24,34 +24,23 @@ params:
               <link rel="shortcut icon" href="favicon.ico">
 
   profile:
-    name: "Geir O. Jerstad, Abbr."
+    name: "Geir O. Jerstad"
     tagline: Linux expert
-    location: "Kristiansand, ST"
+    location: "Kristiansand, Norway"
     photo: profile.jpg
   social:
     title: Links
     list:
       - icon: fab fa-linkedin-in
-        url: "#"
+        url: "https://www.linkedin.com/in/geir-okkenhaug-jerstad-bb09a271/"
         title: LinkedIn
-      - icon: fab fa-stack-overflow
-        url: "#"
-        title: StackOverflow
       - icon: fab fa-github
         url: "#"
         title: GitHub
-      - icon: fab fa-twitter
+      - icon: fab fa-mastodon
         url: "#"
-        title: Twitter
-      - icon: fab fa-orcid
-        url: "#"
-        title: Orcid
-      - icon: ai ai-google-scholar
-        url: "#"
-        title: Google Scholar
-      - icon: fab fa-researchgate
-        url: "#"
-        title: ResearchGate
+        title: Mastodon
+        
   showInAccordion:
     - item: aboutme
       expand: true
@@ -64,86 +53,39 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: I modified the aafu theme
+    description: Norwegian, living in Kristiansand. Played with computers since 1985. [More](blog/aboutme) 
   experience:
     title: Experiences
     icon: fas fa-briefcase
     list:
-      - position: Job Title
-        dates: 2019 - *Present*
-        company: Company Name
+      - position: 1/2.line support 
+        dates: 2023 - 2023
+        company: Nesecurity AS
+        url: "https://netsecurity.no"
         details: |1-
-          - Printed from desktop. Sent [emails](#).
-              - Called people *using* telephone.
-          - Drank water from office cooler.
-          - Ate donuts on people's birthdays.
-      - position: Job Title
-        dates: 2018 - 2019
-        url: "#"
-        company: Company Name
+          - Analyzing securtiy alerts in SOC
+          - Responging to security alerts
+          - Windows365 admin/support windows
+      - position: Owner/Daily operations
+        dates: 2000 - 2018
+        company: Lund Kiosk AS
   education:
     title: Education
     icon: fas fa-graduation-cap
     list:
-      - degree: Ph.D. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: M.S. in Subject
-        college: University of State-City
-        dates: 2013 - 2018
-        thesis_title: "Effect of humans on other humans: a study of human behavior."
-        thesis_url: "#"
-      - degree: B.S. in Subject
-        college: University of State-City
-        dates: 2004 - 2009
-  publication:
-    title: Publications
-    icon: fas fa-book
-    format:
-      - date
-      - title
-      - authors
-      - journal
-    types:
-      - Journal Articles
-      - Proceedings
-    list:
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Journal Articles
-      - title: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        authors: "F Last, F Second, P secondary"
-        date: "2018"
-        journal: "Journal of Field 52 (16), 9033-9044"
-        url: "#"
-        type: Proceedings
+      - degree: Higher Vocational Degree - Network and IT-Security
+        college: [Noroff AS]
+        dates: 2019 - 2020
   project:
     title: Projects
     icon: fas fa-project-diagram
     list:
-      - title: Project 1
-        url: "#"
-        description: Description of the project
-      - title: Project 2
-        url: "#"
-        description: Description of the project
+      - title: Project - Home lab
+        url: "https://blog.geokkjer.eu"
+        description: How I  run my home-lab
+      - title: This blog
+        url: "https://github.com/geokkjer/personal-site"
+        description: Code for this blog
       - title: Project 3
         url: "#"
         description: Description of the project
@@ -159,6 +101,8 @@ params:
         skillrating: 90
       - skill: "Dev/Ops"
         skillrating: 80
+      - skill: "Web Develoment"
+        skillrating: 70
       - skill: "Teamwork"
         skillrating: 50
   hobby:

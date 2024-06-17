@@ -1,4 +1,4 @@
 ---
-title: "aafu theme"
+title: "Random musings"
 weight: 100
 ---
