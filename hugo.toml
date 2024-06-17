@@ -1,7 +1,7 @@
 baseURL = "https://geokkjer.github.io/personal-site/"
 languageCode = "en-us"
 title = "Geir Okkenhaug Jerstad"
-theme = "personal-web"
+theme = "aafu"
 copyright="© Geir O. Jerstad"
 googleAnalytics = ""
 enableEmoji=true
