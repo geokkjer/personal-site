@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Geir Okkenhaug Jerstad</title>
-    <link>https://geokkjer.github.io/personal-site/categories/</link>
+    <link>http://localhost:1313/personal-site/categories/</link>
     <description>Recent content in Categories on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
     <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geokkjer.github.io/personal-site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Don&#39;t Look</title>
-      <link>https://geokkjer.github.io/personal-site/categories/dont-look/</link>
+      <link>http://localhost:1313/personal-site/categories/dont-look/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/categories/dont-look/</guid>
+      <guid>http://localhost:1313/personal-site/categories/dont-look/</guid>
       <description></description>
     </item>
     <item>
       <title>Fringilla</title>
-      <link>https://geokkjer.github.io/personal-site/categories/fringilla/</link>
+      <link>http://localhost:1313/personal-site/categories/fringilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/categories/fringilla/</guid>
+      <guid>http://localhost:1313/personal-site/categories/fringilla/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://geokkjer.github.io/personal-site/categories/syntax/</link>
+      <link>http://localhost:1313/personal-site/categories/syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/categories/syntax/</guid>
+      <guid>http://localhost:1313/personal-site/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://geokkjer.github.io/personal-site/categories/themes/</link>
+      <link>http://localhost:1313/personal-site/categories/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/categories/themes/</guid>
+      <guid>http://localhost:1313/personal-site/categories/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Diam Aliqua</title>
-      <link>https://geokkjer.github.io/personal-site/categories/diam-aliqua/</link>
+      <link>http://localhost:1313/personal-site/categories/diam-aliqua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/categories/diam-aliqua/</guid>
+      <guid>http://localhost:1313/personal-site/categories/diam-aliqua/</guid>
       <description></description>
     </item>
   </channel>

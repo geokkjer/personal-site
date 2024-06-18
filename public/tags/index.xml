@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Geir Okkenhaug Jerstad</title>
-    <link>https://geokkjer.github.io/personal-site/tags/</link>
+    <link>http://localhost:1313/personal-site/tags/</link>
     <description>Recent content in Tags on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
     <lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://geokkjer.github.io/personal-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Laoreet</title>
-      <link>https://geokkjer.github.io/personal-site/tags/laoreet/</link>
+      <link>http://localhost:1313/personal-site/tags/laoreet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/laoreet/</guid>
+      <guid>http://localhost:1313/personal-site/tags/laoreet/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>https://geokkjer.github.io/personal-site/tags/notes/</link>
+      <link>http://localhost:1313/personal-site/tags/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/notes/</guid>
+      <guid>http://localhost:1313/personal-site/tags/notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Template</title>
-      <link>https://geokkjer.github.io/personal-site/tags/template/</link>
+      <link>http://localhost:1313/personal-site/tags/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/template/</guid>
+      <guid>http://localhost:1313/personal-site/tags/template/</guid>
       <description></description>
     </item>
     <item>
       <title>Css</title>
-      <link>https://geokkjer.github.io/personal-site/tags/css/</link>
+      <link>http://localhost:1313/personal-site/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/css/</guid>
+      <guid>http://localhost:1313/personal-site/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://geokkjer.github.io/personal-site/tags/html/</link>
+      <link>http://localhost:1313/personal-site/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/html/</guid>
+      <guid>http://localhost:1313/personal-site/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://geokkjer.github.io/personal-site/tags/markdown/</link>
+      <link>http://localhost:1313/personal-site/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/markdown/</guid>
+      <guid>http://localhost:1313/personal-site/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://geokkjer.github.io/personal-site/tags/themes/</link>
+      <link>http://localhost:1313/personal-site/tags/themes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/themes/</guid>
+      <guid>http://localhost:1313/personal-site/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Mollis Urna</title>
-      <link>https://geokkjer.github.io/personal-site/tags/mollis-urna/</link>
+      <link>http://localhost:1313/personal-site/tags/mollis-urna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/tags/mollis-urna/</guid>
+      <guid>http://localhost:1313/personal-site/tags/mollis-urna/</guid>
       <description></description>
     </item>
   </channel>
