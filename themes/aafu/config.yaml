@@ -37,6 +37,9 @@ params:
       - icon: fab fa-github
         url: "https://github.com/geokkjer/"
         title: GitHub
+      - icon: fab fa-git
+        url: "https://git.sr.ht/~geokkjer/"
+        title: Sourcehut
       - icon: fab fa-mastodon
         url: "https://hachyderm.io/@geokkjer"
         title: Mastodon

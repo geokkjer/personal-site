@@ -27,6 +27,7 @@ Also got very excited about DevOps/Kubernetes, and now it feels very natural to 
 
 # Interests
 
+* Computer history
 * Unix/linux 
 * Code
 * Gaming
