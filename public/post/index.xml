@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>POST on Geir Okkenhaug Jerstad</title>
-    <link>https://geokkjer.github.io/personal-site/post/</link>
+    <link>http://localhost:1313/personal-site/post/</link>
     <description>Recent content in POST on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
     <lastBuildDate>Sat, 20 Apr 2019 16:18:12 +0100</lastBuildDate>
-    <atom:link href="https://geokkjer.github.io/personal-site/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-site/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Config File</title>
-      <link>https://geokkjer.github.io/personal-site/post/config-file/</link>
+      <link>http://localhost:1313/personal-site/post/config-file/</link>
       <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/post/config-file/</guid>
+      <guid>http://localhost:1313/personal-site/post/config-file/</guid>
       <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;&#xA;&lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pages</title>
-      <link>https://geokkjer.github.io/personal-site/post/pages/</link>
+      <link>http://localhost:1313/personal-site/post/pages/</link>
       <pubDate>Sat, 20 Apr 2019 19:12:12 +0100</pubDate>
-      <guid>https://geokkjer.github.io/personal-site/post/pages/</guid>
+      <guid>http://localhost:1313/personal-site/post/pages/</guid>
       <description>&lt;p&gt;Variables you can use in pages&lt;/p&gt;</description>
     </item>
   </channel>

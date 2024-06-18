@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum vitae on Geir Okkenhaug Jerstad</title>
-    <link>https://geokkjer.github.io/personal-site/cv/</link>
+    <link>http://localhost:1313/personal-site/cv/</link>
     <description>Recent content in Curriculum vitae on Geir Okkenhaug Jerstad</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Geir O. Jerstad</copyright>
-    <atom:link href="https://geokkjer.github.io/personal-site/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/personal-site/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
