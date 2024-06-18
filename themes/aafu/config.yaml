@@ -25,7 +25,7 @@ params:
 
   profile:
     name: "Geir O. Jerstad"
-    tagline: Linux expert
+    tagline: Linux, DevOps, IT-security
     location: "Kristiansand, Norway"
     photo: profile.jpg
   social:
@@ -52,7 +52,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: Norwegian, living in Kristiansand. Played with computers since 1985. [More](blog/aboutme) 
+    description: Linux enthusiast and Norwegian, living in Kristiansand, NO. Played with computers since 1985. [More](blog/aboutme) 
   experience:
     title: Experiences
     icon: fas fa-briefcase
