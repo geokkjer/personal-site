@@ -65,7 +65,7 @@ params:
         company: Nesecurity AS
         url: "https://netsecurity.no"
         details: |1-
-          - Analyzing securtiy alerts in SOC
+          - Analyzing securtiy alerts in SOC/SOAR
           - Responging to security alerts
           - Windows365 admin/support windows
       - position: Owner/Daily operations
