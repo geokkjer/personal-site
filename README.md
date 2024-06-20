@@ -1,6 +1,6 @@
-# aafu Theme
+# Landing site geokkjer.eu
 
-The aafu Theme is a responsive portfolio with blog. [Click here](https://aafu.pages.dev/) for live demo.
+Built using aafu Theme, a responsive portfolio with blog. [Click here](https://aafu.pages.dev/) for live demo.
 
 ## Installation
 
