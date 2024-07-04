@@ -40,6 +40,9 @@ params:
       - icon: fab fa-git
         url: "https://git.sr.ht/~geokkjer/"
         title: Sourcehut
+      - icon: fab fa-git
+        url: "https://git.geokkjer.eu/geir"
+        title: Sourcehut
       - icon: fab fa-mastodon
         url: "https://hachyderm.io/@geokkjer"
         title: Mastodon
